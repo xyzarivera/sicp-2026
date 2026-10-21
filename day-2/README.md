@@ -15,3 +15,12 @@ Optional: 1.2.2, 1.2.3
 Find the `(count-change)` exercise in Section 1.2.2
 
 ### Fibonacci and big-0 notation
+
+...
+
+### Exercise
+Special exercise: (define (make-accumulator op null-value))
+Special exercise: (make-sum) and (make-product)
+Exercise: 1.41: double double
+Exercise: 1.43
+Exercise: 1.46
